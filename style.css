@@ -1,0 +1,93 @@
+body{
+    background-image:url(image/off-white.jpeg.jpg);
+}
+.last-headband img{
+  margin-left :435px;
+}
+
+.last-text{
+    padding : 20px;
+    background-color: rgb(138, 18, 18);
+    margin : 0 center ;
+    width : 50%;
+    margin : 0 auto ;
+    border-radius: 20px;
+    margin-top:20px;
+
+}
+
+.interview{
+    padding : 20px;
+    background-color:rgb(138, 18, 18);
+    height: 20px;
+    border-radius: 30px; 
+    margin-bottom:20px;
+    width:200px;
+}
+.send-me-a-message{
+width :200px;
+margin-top:-5px;
+border-radius:30px;
+}
+.last-container{
+    display:flex;
+    justify-content : space-around ;
+}
+
+.last-container h4{
+    margin-top:1px;
+    width:200px;
+
+}
+
+.send-me-a-message h4{
+    margin-top:10px;
+    margin-bottom:30px;
+    padding:20px;
+    background-color:rgb(138, 18, 18);
+    height: 20px;
+    border-radius:20px;
+    margin-right:127px;
+}
+
+.send-me-a-message{
+    margin-top:5px;
+}
+
+.interview{
+    margin-top:20px;
+}
+
+form{
+    display : flex;
+    flex-direction :column ;
+    margin-left : 70px;
+}
+.send-me-a-message form {
+    margin-left:10px;
+}
+
+.send-me-a-message form input {
+    height:30px;
+    border-radius:20px;
+    background-color : rgb(138, 18, 18);
+}
+label {
+    color :white ; 
+}
+button {
+    width :200px;
+    height : 50px;
+    border-radius:20px;
+    background-color : grey
+}
+button:hover {
+    cursor: pointer ; 
+    background-color:brown;
+    transition : 2s;
+}
+
+textarea {
+    margin-top : 20px;
+    margin-right : 60px;
+}
